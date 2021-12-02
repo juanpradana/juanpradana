@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=juanpradana&color=lightgrey&label=Profile+Visit's)
 
----
-
 # Halo semua! 
 Perkenalkan nama saya **Muhammad Juan Pradana**.\
 Saya adalah **Mahasiswa Teknik Elektro** di Universitas Lampung.\
