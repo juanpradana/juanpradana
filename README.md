@@ -16,11 +16,12 @@
 ---
 
 ## ⚙️ Focus Areas
-- Embedded Systems (STM32, CC13xx, STM32WL)
-- Sub-GHz RF & wM-Bus (433 MHz)
-- Low Power Optimization
-- Bootloader & Firmware Architecture
-- Sensor Data & Telemetry Systems
+- **Embedded Systems** → STM32, CC13xx/CC1312R1, ESP32, STM32WL
+- **Sub-GHz RF & wM-Bus** → 433 MHz telemetry, packet sniffing, low-power wireless
+- **Low-Power Optimization** → Battery nodes, sleep modes, OTA firmware
+- **Bootloader & Firmware Architecture** → Custom bootloaders, secure updates
+- **Full-Stack Telemetry** → Web dashboards (Astro/Vue), data visualization, cloud monitoring
+- **Sensor Systems** → Data acquisition, protocol optimization, IoT integration
 
 ---
 
@@ -28,6 +29,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,cmake,react" />
 </p>
+
+**Embedded:** C/C++, TI-RTOS, STM32Cube, FreeRTOS basics  
+**RF/Wireless:** CC1312R1 LaunchPad, wM-Bus modes, Astrocast integration  
+**Web/Full-Stack:** Astro, Vue, JavaScript/Node, HTML/CSS, Python (Dash/Flask)  
+**Tools:** GitHub Actions, Docker basics, Grafana/Node-RED for monitoring
 
 ---
 
@@ -75,10 +81,11 @@
 ---
 
 ## 🚀 What I Actually Build
-- Low-power sensor nodes (battery-optimized)
-- Sub-GHz telemetry systems
-- Custom bootloaders & OTA-ready firmware
-- Data packaging & protocol-level optimization
+- Low-power sensor nodes with Sub-GHz telemetry
+- Custom bootloaders & OTA-ready firmware for TI/STM32
+- End-to-end IoT systems: embedded collectors + web dashboards (e.g., RF spectrum analyzers, uptime monitors)
+- Utility tools: PDF processors, dBm converters, cloud journals
+- Python/JS backends for data logging and alerting
 
 ---
 
