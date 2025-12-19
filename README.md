@@ -37,21 +37,23 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=juanpradana&show_icons=true&theme=synthwave&hide_title=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="juanpradana's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=juanpradana&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpradana&layout=compact&theme=synthwave&langs_count=8&hide_title=true"/>
-
-</td>
-<td>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanpradana&theme=synthwave"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="juanpradana's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=juanpradana&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="juanpradana's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=juanpradana&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+</p>
 
 ---
 
@@ -64,7 +66,10 @@
     <source media="(prefers-color-scheme: light)" 
       srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanpradana&theme=nord_bright">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanpradana&theme=nord_dark">
+    
+    
   </picture>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="juanpradana's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=juanpradana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 ---
